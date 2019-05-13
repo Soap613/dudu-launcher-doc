@@ -18,7 +18,7 @@ module.exports = {
       }
     ],
     sidebar: {
-      "/": ["/", "theme", "item", "ble", "driving", "diceng", "other"]
+      "/": ["/", "theme", "item", "ble", "driving", "diceng", "other", "update"]
     },
     sidebarDepth: 2
   }
