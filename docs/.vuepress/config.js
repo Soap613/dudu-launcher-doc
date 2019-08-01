@@ -31,7 +31,8 @@ module.exports = {
         "driving",
         "diceng",
         "other",
-        "update"
+        "update",
+        "juansong"
       ]
     },
     sidebarDepth: 2
