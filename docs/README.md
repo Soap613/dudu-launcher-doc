@@ -4,6 +4,8 @@
 
 各大商店搜索车友达人 APP,下载安装并注册即可,享受加油和洗车的便捷体验 😆
 
+[嘟嘟桌面最新版2.012正式版下载地址](http://car-launcher.dudu-lucky.com:7000/upload/apk/dcdebe12bcd943ce992ff3c89a27c116/temp.apk)
+
 ## 桌面简介
 
 嘟嘟桌面是一个安卓的车载桌面启动器,主要面向车机使用环境<br/>
