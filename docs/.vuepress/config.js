@@ -1,7 +1,6 @@
 module.exports = {
   title: "嘟嘟车机桌面",
   description: "嘟嘟桌面,免费的车机桌面",
-  dest: "public",
   head: [
     ["link", { rel: "icon", href: "/favicon.ico" }],
     [
