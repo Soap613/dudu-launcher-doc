@@ -1,4 +1,8 @@
-# 捐送名单
+---
+title: 捐送名单
+isComment: false
+sidebar: false
+---
 
 我这边只能看到这些,各种感谢,括号内为备注<br>
 金额过大的,我把金额发布出来了
