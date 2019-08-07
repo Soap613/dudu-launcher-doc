@@ -2,7 +2,7 @@ module.exports = {
   title: "嘟嘟桌面(车机桌面)使用文档",
   description: "嘟嘟桌面使用文档,免费的车机桌面",
   themeConfig: {
-    search: false,
+    search: true,
     nav: [
       {
         text: "使用指南",
@@ -29,9 +29,18 @@ module.exports = {
         "diceng",
         "other",
         "update",
-        "juansong"
+        "juansong",
+        "changjianwenti"
       ]
     },
     sidebarDepth: 2
-  }
+  },
+  plugins: [
+    [
+      "@vuepress/register-components",
+      {
+        componentsDir: "./components"
+      }
+    ]
+  ]
 };
