@@ -24,4 +24,3 @@
 - 酷黑皮肤
   ![layout1](./img/theme_kuhei.jpg)
 
-<Valine/>
