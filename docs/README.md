@@ -11,3 +11,5 @@ features:
   - title: 未来
     details: 在不影响体验的情况下,兼容更多的车机系统,更多的外设,使嘟嘟桌面成为最好用的车机桌面
 ---
+
+<div align=center>交流群:109799213<br/><br/><img src="./img/qunqcode.jpg"/></div>
