@@ -2,6 +2,12 @@
 title: 历史版本
 ---
 
+## 2.012.015 2019-8-8
+
+[下载地址](http://car-launcher.dudu-lucky.com:7000/upload/apk/7772534778d441cabc7c57b94a5d01df/temp.apk)
+
+- 紧急修复版本,修复一个正式版本的致命 bug
+
 ## 2.013.002 2019-8-7
 
 [下载地址](http://car-launcher.dudu-lucky.com:7000/upload/apk/dfb857220cf14905b7e81ad87efbf531/temp.apk)
