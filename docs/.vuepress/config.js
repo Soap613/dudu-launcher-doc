@@ -15,7 +15,20 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: "首页", link: "/", icon: "reco-home" },
-      { text: "历史版本", link: "/views/other/updates", icon: "reco-date" },
+      {
+        text: "历史版本",
+        icon: "reco-date",
+        items: [
+          {
+            text: "嘟嘟桌面",
+            link: "/views/other/updates"
+          },
+          {
+            text: "嘟嘟音乐",
+            link: "/views/other/updates_music"
+          }
+        ]
+      },
       { text: "捐送名单", link: "/views/other/juansong" }
     ],
     // 博客设置
