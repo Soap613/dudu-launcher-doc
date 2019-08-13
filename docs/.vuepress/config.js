@@ -26,10 +26,14 @@ module.exports = {
           {
             text: "嘟嘟音乐",
             link: "/views/other/updates_music"
+          },
+          {
+            text: "嘟嘟桌面mini版",
+            link: "/views/other/updates_mini"
           }
         ]
       },
-      { text: "捐送名单", link: "/views/other/juansong" }
+      { text: "捐送名单", link: "/views/other/捐送名单" }
     ],
     // 博客设置
     blogConfig: {

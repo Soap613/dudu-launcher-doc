@@ -16,7 +16,7 @@ features:
 
 ## 感谢全部对嘟嘟桌面进行捐助的网友
 
-[查看捐助名单](/views/other/juansong)
+[查看捐助名单](/views/other/捐送名单)
 
 ## 感谢以下协助测试的车友
 
