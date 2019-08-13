@@ -16,10 +16,6 @@ features:
 
 <div align=center><img src="./img/juanzhu.jpg"/> <img src="./img/juanzhu2.jpeg"/></div>
 
-## 交流群:109799213
-
-<div align=center><img src="./img/qunqcode.jpg"/></div>
-
 ## 感谢全部对嘟嘟桌面进行捐助的网友
 
 [查看捐助名单](/views/other/捐送名单)
@@ -34,3 +30,8 @@ features:
 - 感谢网友 乐呵呵 对长安欧尚 A800 V 版 的方控进行的测试
 - 感谢网友 熊猫哥哥 对长安欧尚 A800 O 版 的方控进行的测试
 - 感谢网友 A╭ 半醒温柔 。,南端星 对迈锐宝 的方控进行的测试
+
+## 交流群:109799213
+
+<br/>
+<div align=center><img src="./img/qunqcode.jpg"/></div>
