@@ -12,7 +12,13 @@ features:
     details: 在不影响体验的情况下,兼容更多的车机系统,更多的外设,使嘟嘟桌面成为最好用的车机桌面
 ---
 
-<div align=center>交流群:109799213<br/><br/><img src="./img/qunqcode.jpg"/></div>
+## 捐助支持
+
+<div align=center><img src="./img/juanzhu.jpg"/> <img src="./img/juanzhu2.jpeg"/></div>
+
+## 交流群:109799213
+
+<div align=center><img src="./img/qunqcode.jpg"/></div>
 
 ## 感谢全部对嘟嘟桌面进行捐助的网友
 
