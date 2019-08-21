@@ -2,6 +2,13 @@
 title: 嘟嘟桌面历史版本
 ---
 
+## 2.013.003 2019-8-14
+
+[下载地址](http://car-launcher.dudu-lucky.com:7000/upload/apk/6abc47e9ecce4cb09534cc0cd3509869/temp.apk)
+
+- 掌讯灯光切换主题功能添加
+- 车道,等 bug 修复
+
 ## 2.012.015 2019-8-8
 
 [下载地址](http://car-launcher.dudu-lucky.com:7000/upload/apk/7772534778d441cabc7c57b94a5d01df/temp.apk)
