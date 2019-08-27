@@ -2,6 +2,14 @@
 title: 嘟嘟桌面历史版本
 ---
 
+## 2.013.004 2019-8-19
+
+[下载地址](http://car-launcher.dudu-lucky.com:7000/upload/apk/202ee76b4c414efcbc5589dfaa4359e6/temp.apk)
+
+- gs4 方控支持
+- 迈锐宝方控调整
+- 其他 bug 修复
+
 ## 2.013.003 2019-8-14
 
 [下载地址](http://car-launcher.dudu-lucky.com:7000/upload/apk/6abc47e9ecce4cb09534cc0cd3509869/temp.apk)

@@ -5,6 +5,10 @@ module.exports = {
     ["link", { rel: "icon", href: "/favicon.ico" }],
     [
       "meta",
+      { name: "keywords", content: "车机桌面,嘟嘟桌面,嘟嘟车机桌面,车机桌面" }
+    ],
+    [
+      "meta",
       {
         name: "viewport",
         content: "width=device-width,initial-scale=1,user-scalable=no"
