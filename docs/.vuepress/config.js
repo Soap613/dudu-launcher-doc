@@ -37,6 +37,15 @@ module.exports = {
           }
         ]
       },
+      {
+        text: "主题制作",
+        items: [
+          {
+            text: "参数配置",
+            link: "/views/themeMake/主题配置参数"
+          }
+        ]
+      },
       { text: "捐送名单", link: "/views/other/捐送名单" }
     ],
     // 博客设置
