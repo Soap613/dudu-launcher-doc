@@ -31,10 +31,10 @@ features:
 - 感谢网友 熊猫哥哥 对长安欧尚 A800 O 版 的方控进行的测试
 - 感谢网友 A╭ 半醒温柔 。,南端星 对迈锐宝 的方控进行的测试
 
-## 交流群:109799213
+## 交流群:109799213,338156952
 
 <br/>
-<div align=center><img src="./img/qunqcode.jpg"/></div>
+<div align=center><img src="./img/qunqcode.jpg"/><img src="./img/qunqcode2.png"/></div>
 
 ## 新版本规划,按重要程度排序
 

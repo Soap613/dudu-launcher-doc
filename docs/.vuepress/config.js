@@ -51,8 +51,12 @@ module.exports = {
         text: "主题制作",
         items: [
           {
-            text: "使用开发工具制作主题",
+            text: "开发工具制作主题",
             link: "/views/themeMake/主题制作dev"
+          },
+          {
+            text: "反编译工具制作主题",
+            link: "/views/themeMake/主题制作反编译"
           },
           {
             text: "参数配置",
