@@ -5,7 +5,17 @@ module.exports = {
     ["link", { rel: "icon", href: "/favicon.ico" }],
     [
       "meta",
-      { name: "keywords", content: "车机桌面,嘟嘟桌面,嘟嘟车机桌面,车机桌面" }
+      {
+        name: "keywords",
+        content: "车机桌面,嘟嘟桌面,嘟嘟车机桌面,车机桌面,车载嘟嘟桌面"
+      }
+    ],
+    [
+      "meta",
+      {
+        name: "baidu-site-verification",
+        content: "8OsmwXPEAd"
+      }
     ],
     [
       "meta",
@@ -40,6 +50,10 @@ module.exports = {
       {
         text: "主题制作",
         items: [
+          {
+            text: "使用开发工具制作主题",
+            link: "/views/themeMake/主题制作dev"
+          },
           {
             text: "参数配置",
             link: "/views/themeMake/主题配置参数"

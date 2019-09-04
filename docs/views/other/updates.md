@@ -2,6 +2,14 @@
 title: 嘟嘟桌面历史版本
 ---
 
+## 2.013.004 2019-9-2
+
+[下载地址](http://car-launcher.dudu-lucky.com:7000/upload/apk/e21061d88ed44adea7651ab6b6f01197/temp.apk)
+
+- 新主题
+- 方控自定义功能
+- 其他 bug 修复
+
 ## 2.013.004 2019-8-19
 
 [下载地址](http://car-launcher.dudu-lucky.com:7000/upload/apk/202ee76b4c414efcbc5589dfaa4359e6/temp.apk)
