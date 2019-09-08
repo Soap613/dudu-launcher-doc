@@ -2,7 +2,7 @@
 title: 嘟嘟桌面迷你版
 ---
 
-## 1.001.004 2019-8-27
+## 1.001.005 2019-9-3
 
 [下载地址](http://car-launcher.dudu-lucky.com:7000/upload/apk/70e1e4d0991b4fb3a7b7b6a749b9343a/temp.apk)
 

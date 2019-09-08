@@ -8,4 +8,4 @@ categories:
 
 兼容度:极高<br/>
 
-![layout1](../../img/theme_chunhei.jpg)
+![layout1](../../img/theme_baise.jpg)

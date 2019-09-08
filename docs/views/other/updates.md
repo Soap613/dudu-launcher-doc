@@ -2,7 +2,16 @@
 title: 嘟嘟桌面历史版本
 ---
 
-## 2.013.004 2019-9-2
+## 2.013.006 2019-9-6
+
+[下载地址](http://car-launcher.dudu-lucky.com:7000/upload/apk/63aa45c0df1648c1adf53f429e35b148/temp.apk)
+
+- 修复歌曲封面问题
+- 修改了数据库组件,升级会导致部分设置丢失,需要重新设置
+- 优化酷狗切歌
+- 其他 bug 修复
+
+## 2.013.005 2019-9-2
 
 [下载地址](http://car-launcher.dudu-lucky.com:7000/upload/apk/e21061d88ed44adea7651ab6b6f01197/temp.apk)
 
