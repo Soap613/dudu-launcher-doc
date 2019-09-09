@@ -1,5 +1,5 @@
 ---
-title: 纯黑主题
+title: 白色主题
 sidebar: false
 author: Soap
 categories:
