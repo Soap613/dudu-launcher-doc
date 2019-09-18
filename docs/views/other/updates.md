@@ -2,6 +2,15 @@
 title: 嘟嘟桌面历史版本
 ---
 
+## 2.014.002 2019-9-18
+
+[下载地址](http://car-launcher.dudu-lucky.com:7000/upload/apk/bb498305b94549b0b00bfd04461619ac/temp.apk)
+
+- 添加了 A800 内置胎压显示
+- 去掉了部分文字动画
+- 修正了一些小 bug
+- 注意：新版本优驾胎压模块需要重新选择胎压插件！！
+
 ## 2.014.001 2019-9-10
 
 [下载地址](http://car-launcher.dudu-lucky.com:7000/upload/apk/1e067478810c4027b1013c98b0f92f93/temp.apk)
