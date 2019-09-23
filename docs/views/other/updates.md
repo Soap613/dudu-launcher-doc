@@ -2,10 +2,12 @@
 title: 嘟嘟桌面历史版本
 ---
 
-## 2.014.002 2019-9-18
+## 2.014.003 2019-9-22
 
-[下载地址](http://car-launcher.dudu-lucky.com:7000/upload/apk/bb498305b94549b0b00bfd04461619ac/temp.apk)
+[下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/3a561484098e4e1f8cdb7faaf89a350e/temp.apk)
 
+- 内置车载应用模块
+- 添加个人中心选项卡
 - 添加了 A800 内置胎压显示
 - 去掉了部分文字动画
 - 修正了一些小 bug

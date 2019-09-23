@@ -9,7 +9,7 @@ title: 嘟嘟桌面迷你版
 - 最新主题适配
 - 驾驶界面
 
-## 1.002.001 2019-9-3
+## 1.001.006 2019-9-3
 
 [下载地址](http://car-launcher.dudu-lucky.com:7000/upload/apk/70e1e4d0991b4fb3a7b7b6a749b9343a/temp.apk)
 
