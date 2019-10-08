@@ -2,6 +2,26 @@
 title: 嘟嘟桌面历史版本
 ---
 
+## 2.014.006 2019-10-5
+
+[下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/f5d5337d10d147a5ad75c95345df7503/temp.apk)
+
+- 优化效率
+
+## 2.014.004 2019-9-30
+
+[下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/62b18a36dfbe499e9e1e05cc9273b5b8/temp.apk)
+
+- 大家国庆节快乐
+- 新的主题中心
+- 新的个人中心
+- 车装甲胎压支持，A800 胎压支持
+- 内置简单应用商店
+- 超速，油量，胎压警告（需协议支持）
+- 新的引导样式
+- 部分样式调整
+- 修复各种 bug
+
 ## 2.014.003 2019-9-22
 
 [下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/3a561484098e4e1f8cdb7faaf89a350e/temp.apk)
