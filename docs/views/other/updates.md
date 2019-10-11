@@ -2,25 +2,21 @@
 title: 嘟嘟桌面历史版本
 ---
 
-## 2.014.008 2019-10-10 测试版本
+## 2.014.010 2019-10-11
 
-[下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/78a9a9def0524f35865388f0521ff318/temp.apk)
+[下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/0d8e8cfae99d48e7b7f7d0af91555b5a/temp.apk)
 
 - 添加下载中心
 - 添加部分计划任务支持
-- 修复关闭 APP 时关闭不彻底的 bug
 - 添加图片占位图
 - 日历添加假期（需联网）
 - 修复车装甲的温度问题
-- 修复其他 bug
-
-## 2.014.007 2019-10-8 测试版本
-
-[下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/8d8df42cfec14e9ea6f673d7537c0025/temp.apk)
-
-- 计划任务功能
 - 备份功能重做
 - 警告窗口改全局
+- 设置界面的内置应用图标可直接进入功能
+- 嘟嘟音乐，嘟嘟 FM 未安装情况下的引导安装功能
+- 新的绑定蓝牙界面
+- 无网络时候自动连接某个 wifi 的功能
 - 修复 fix
 
 ## 2.014.006 2019-10-5
