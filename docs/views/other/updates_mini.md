@@ -2,6 +2,8 @@
 title: 嘟嘟桌面迷你版
 ---
 
+## 嘟嘟桌面迷你版,只做致命 BUG 修复,不添加任何新功能了
+
 ## 1.002.002 2019-9-3
 
 [下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/ff45f04ee92c4ea59c7f23e5605cec81/temp.apk)

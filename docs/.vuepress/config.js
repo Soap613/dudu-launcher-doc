@@ -38,6 +38,10 @@ module.exports = {
             link: "/views/other/updates"
           },
           {
+            text: "DC音乐",
+            link: "/views/other/updates_dc"
+          },
+          {
             text: "嘟嘟音乐",
             link: "/views/other/updates_music"
           },
@@ -80,7 +84,7 @@ module.exports = {
     // 自动形成侧边导航
     sidebar: "auto",
     // 最后更新时间
-    lastUpdated: "Last Updated",
+    lastUpdated: "更新时间",
     // 作者
     author: "Soap",
     // 项目开始时间

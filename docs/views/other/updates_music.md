@@ -2,6 +2,8 @@
 title: 嘟嘟音乐历史版本
 ---
 
+## 嘟嘟音乐已停更,不做任何维护
+
 ## 1.003.002 2019-8-9
 
 [下载地址](http://car-launcher.dudu-lucky.com:7000/upload/apk/4e5cf50128f64510a294342850000cb1/temp.apk)
