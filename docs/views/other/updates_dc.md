@@ -1,8 +1,15 @@
 ---
-title: 嘟嘟音乐历史版本
+title: DC音乐历史版本
 ---
 
-## 1.003.002 2019-11-12
+## 1.001.012 2019-11-24
+
+[下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/79fef2477030482391fe60554a326292/temp.apk)
+
+- 自动播放,进度记忆
+- bug 修复
+
+## 1.001.009 2019-11-12
 
 [下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/7823d8842ff34e47b6ab0cbb31fb7ded/temp.apk)
 

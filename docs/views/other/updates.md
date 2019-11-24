@@ -2,6 +2,17 @@
 title: 嘟嘟桌面历史版本
 ---
 
+## 2.014.033 2019-11-03
+
+[下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/e39f71e2561b49f79f041bbd0b446c62/temp.apk)
+
+- 音乐插件添加网易云音乐，酷狗音乐手机版，DC 音乐
+- 状态栏随主题色（主题适配）
+- 添加 T300 车机方控支持，胎压支持
+- 添加优驾基础版本支持，优化蓝牙外设
+- 方控适配方案添加一键切换 DOCK 应用的功能
+- bug 修复
+
 ## 2.014.027 2019-11-03
 
 [下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/adea9a0c7fb44bb1ba01853b50f2daa0/temp.apk)
