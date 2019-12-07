@@ -12,6 +12,10 @@ features:
     details: 在不影响体验的情况下,兼容更多的车机系统,更多的外设,使嘟嘟桌面成为最好用的车机桌面
 ---
 
+## 欢迎关注嘟嘟车机桌面公众号(建设中)
+
+<div align=center><img src="./img/gzh.jpg"/></div>
+
 ## 捐助支持
 
 <div align=center><img src="./img/juanzhu.jpg"/> <img src="./img/juanzhu2.jpeg"/></div>

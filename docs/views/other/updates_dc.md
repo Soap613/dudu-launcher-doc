@@ -2,6 +2,21 @@
 title: DC音乐历史版本
 ---
 
+## 1.001.021 2019-12-06
+
+[下载地址](https://app.dudu-lucky.com/upload/app_icon/f795f95078a540d38f0e73dad7535a79/temp.apk)
+
+- 添加扫描个性化设置，添加扫描进度展示
+
+## 1.001.020 2019-12-02
+
+[下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/1a23a474287d48e19a4cefd2a1cf77f0/temp.apk)
+
+- 记录最后一次选择的播放模式
+- 多个途径读取音乐信息内容(自行解码,媒体库,文件名)
+- 将播放控制移动到 toolbar,现在不遮挡下方播放列表了
+- 修复一些奇怪的 bug
+
 ## 1.001.012 2019-11-24
 
 [下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/79fef2477030482391fe60554a326292/temp.apk)

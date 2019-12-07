@@ -42,10 +42,6 @@ module.exports = {
             link: "/views/other/updates_dc"
           },
           {
-            text: "嘟嘟音乐",
-            link: "/views/other/updates_music"
-          },
-          {
             text: "嘟嘟桌面mini版",
             link: "/views/other/updates_mini"
           }
@@ -87,8 +83,7 @@ module.exports = {
     lastUpdated: "更新时间",
     // 作者
     author: "Soap",
-    // 项目开始时间
-    startYear: "2017",
+    record: "鲁ICP备19061432号",
     /**
      * valine 设置 (if you need valine comment )
      */

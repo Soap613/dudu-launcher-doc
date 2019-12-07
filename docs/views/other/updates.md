@@ -2,6 +2,25 @@
 title: 嘟嘟桌面历史版本
 ---
 
+## 2.014.038 2019-12-05
+
+[下载地址](https://app.dudu-lucky.com/upload/app_icon/3e7ae8c4012c4b37a5d5be278c2385c3/temp.apk)
+
+- 酷狗音乐插件优化
+- 行程 bug 修复
+
+## 2.014.037 2019-12-03
+
+[下载地址](https://app.dudu-lucky.com/upload/app_icon/c11289f9520d4a5aa19acb320086859a/temp.apk)
+
+- 嘟嘟音乐，DC 音乐音乐信息不展示问题
+- 定位优化，区分天气定位和速度定位
+- 优化 ble 设备的传输问题
+- 氛围灯外设添加
+- 掌讯待机检测
+- 优化设置界面
+- 各种 bug 修复
+
 ## 2.014.033 2019-11-23
 
 [下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/e39f71e2561b49f79f041bbd0b446c62/temp.apk)
