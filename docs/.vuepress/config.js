@@ -64,7 +64,16 @@ module.exports = {
           }
         ]
       },
-      { text: "捐送名单", link: "/views/other/捐送名单" }
+      {
+        text: "其他",
+        items: [
+          { text: "捐送名单", link: "/views/other/捐送名单" },
+          {
+            text: "原厂可用车机",
+            link: "/views/other/原厂可用型号"
+          }
+        ]
+      }
     ],
     // 博客设置
     blogConfig: {
