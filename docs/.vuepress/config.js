@@ -105,5 +105,5 @@ module.exports = {
   markdown: {
     lineNumbers: true
   },
-  plugins: ["@vuepress/pwa", "@vuepress/medium-zoom", "flowchart"]
+  plugins: ["@vuepress/pwa"]
 };

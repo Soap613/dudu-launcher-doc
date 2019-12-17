@@ -2,15 +2,16 @@
 title: 嘟嘟桌面历史版本
 ---
 
-## 2.014.041 2019-12-09
+## 2.014.042 2019-12-11
 
-[下载地址](https://app.dudu-lucky.com/upload/app_icon/7bc3f22bf4674b8e9e1ef217af58bff7/temp.apk)
+[下载地址](https://app.dudu-lucky.com/upload/app_icon/5ae997b8eb2044e09b70053842e5f643/temp.apk)
 
 - 添加 3 个新的驾驶界面（蓝色仪表两个，紫色仪表一个），部分需要 OBD 支持
 - 紫色驾驶界面添加导航支持
 - MINI 时间插件添加数字时钟支持
 - VIPER 音乐支持
 - 尝试解决 DOCK 图标丢失问题
+- 修复各种 bug
 
 ## 2.014.038 2019-12-05
 
