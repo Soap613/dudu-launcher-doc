@@ -64,21 +64,10 @@ features:
 
 <div align=center style="padding:10px"><img src="./img/juanzhu.jpg"/><img src="./img/juanzhu2.jpeg"/></div>
 
-<!-- ### 嘟嘟桌面 MINI 版
-
-- 在完全版基础上精简 OBD,方控,胎压,HUD 等外设以及相关功能
+## 配套 APP
 
 ### DC Player
 
 - 嘟嘟桌面支持的播放器，基于安卓 material design 开发，仅支持本地音乐
 - 支持均衡器，频谱
 - 封面和歌词支持需要网络
-- 基于系统媒体库
-
-### 嘟嘟音乐
-
-开源地址:https://gitee.com/helloworld_studio/dudu-music
-
-### 嘟嘟 FM
-
-开源地址:https://gitee.com/helloworld_studio/dudu-fm -->
