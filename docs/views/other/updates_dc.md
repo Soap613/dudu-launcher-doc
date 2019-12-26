@@ -1,6 +1,12 @@
 ---
-title: DC音乐历史版本
+title: DC Player
+categories:
+  - 历史版本
 ---
+
+DC Player 是嘟嘟桌面默认支持的一个本地播放器，只支持本地歌曲播放
+
+<!-- more -->
 
 ## 1.001.021 2019-12-06
 

@@ -29,50 +29,10 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: "首页", link: "/", icon: "reco-home" },
+      { text: "鸣谢", link: "/views/other/鸣谢" },
       {
-        text: "历史版本",
-        icon: "reco-date",
-        items: [
-          {
-            text: "嘟嘟桌面",
-            link: "/views/other/updates"
-          },
-          {
-            text: "DC音乐",
-            link: "/views/other/updates_dc"
-          },
-          {
-            text: "嘟嘟桌面mini版",
-            link: "/views/other/updates_mini"
-          }
-        ]
-      },
-      {
-        text: "主题制作",
-        items: [
-          {
-            text: "开发工具制作主题",
-            link: "/views/themeMake/主题制作dev"
-          },
-          {
-            text: "反编译工具制作主题",
-            link: "/views/themeMake/主题制作反编译"
-          },
-          {
-            text: "参数配置",
-            link: "/views/themeMake/主题配置参数"
-          }
-        ]
-      },
-      {
-        text: "其他",
-        items: [
-          { text: "捐送名单", link: "/views/other/捐送名单" },
-          {
-            text: "原厂可用车机",
-            link: "/views/other/原厂可用型号"
-          }
-        ]
+        text: "可用车机",
+        link: "/views/other/可用车机"
       }
     ],
     // 博客设置
@@ -91,7 +51,7 @@ module.exports = {
     // 最后更新时间
     lastUpdated: "更新时间",
     // 作者
-    author: "Soap",
+    author: "肥皂泡上尉",
     record: "鲁ICP备19061432号",
     /**
      * valine 设置 (if you need valine comment )
@@ -114,5 +74,12 @@ module.exports = {
   markdown: {
     lineNumbers: true
   },
-  plugins: ["@vuepress/pwa"]
+  plugins: [
+    "@vuepress/pwa",
+    {
+      serviceWorker: true,
+      popupComponent: "SWUpdatePopup",
+      updatePopup: true
+    }
+  ]
 };

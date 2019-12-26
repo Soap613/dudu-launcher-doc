@@ -1,8 +1,14 @@
 ---
-title: 嘟嘟音乐历史版本
+title: 嘟嘟音乐
+categories:
+  - 历史版本
 ---
 
-## 嘟嘟音乐已停更,不做任何维护
+嘟嘟音乐（现已停更）所有的正式版本的更新功能以及下载地址
+
+<!-- more -->
+
+开源地址:https://gitee.com/helloworld_studio/dudu-music
 
 ## 1.003.002 2019-8-9
 
