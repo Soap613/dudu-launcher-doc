@@ -8,6 +8,12 @@ DC Player 是嘟嘟桌面默认支持的一个本地播放器，只支持本地�
 
 <!-- more -->
 
+## 1.001.026 2020-01-13
+
+[下载地址](https://app.dudu-lucky.com/upload/app_icon/6cc808922603472db2a82bf07527c62b/temp.apk)
+
+- 修复 bug
+
 ## 1.001.021 2019-12-06
 
 [下载地址](https://app.dudu-lucky.com/upload/app_icon/f795f95078a540d38f0e73dad7535a79/temp.apk)

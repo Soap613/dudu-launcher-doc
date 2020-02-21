@@ -18,13 +18,25 @@ features:
     details: 在不影响体验的情况下，兼容更多的车机系统(原车和第三方)，更多的外设(OBD,HUD,氛围灯,方控等)，使嘟嘟桌面成为最好用的车机桌面
 ---
 
-## 欢迎关注嘟嘟车机桌面公众号
+## 欢迎关注嘟嘟车机桌面订阅号
 
-<div align=center style="padding:10px"><img src="./img/gzh.jpg"/></div>
+<div align=center style="padding:10px">
+  <img src="./img/gzh_dyh.jpg"/>
+</div>
+
+## 欢迎关注嘟嘟车机桌面服务号和小程序
+
+<div align=center style="padding:10px">
+  <img style="margin:5px" src="./img/gzh_fwh.jpg"/>
+  <img style="margin:5px" src="./img/gzh_xcx.jpg"/>
+</div>
 
 ## 交流群:109799213,338156952
 
-<div align=center style="padding:10px"><img src="./img/qunqcode.jpg"/><img src="./img/qunqcode2.png"/></div>
+<div align=center style="padding:10px">
+  <img style="margin:5px" src="./img/qunqcode.jpg"/>
+  <img style="margin:5px" src="./img/qunqcode2.png"/>
+</div>
 
 ## 桌面特点
 
@@ -68,7 +80,10 @@ features:
 
 ## 捐助支持
 
-<div align=center style="padding:10px"><img src="./img/juanzhu.jpg"/><img src="./img/juanzhu2.jpeg"/></div>
+<div align=center style="padding:10px">
+  <img style="margin:5px" src="./img/juanzhu.jpg"/>
+  <img style="margin:5px" src="./img/juanzhu2.jpeg"/>
+</div>
 
 ## 车机安装软件支持
 
