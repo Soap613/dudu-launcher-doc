@@ -8,6 +8,29 @@ categories:
 
 <!-- more -->
 
+## 2.015.029 2020-02-09
+
+[下载地址](https://app.dudu-lucky.com/upload/app_icon/faa87c38e20049dda4efffb869503fa5/temp.apk)
+
+- 添加了 4 个支持系统 widget 的插件，方便使用原生插件
+- 优驾联网版添加胎压支持
+- 行程优化
+- 添加微信小程序（扫码登陆），QQ 小程序支持（直接关联）
+- 设置界面内容优化添加了一些新的设置项目
+- 其他 bug 修复
+
+## 2.015.017 2020-01-15
+
+[下载地址](https://app.dudu-lucky.com/upload/app_icon/87ea20afde74476695f9f0025e5bdd23/temp.apk)
+
+- 添加优驾联网版的支持（官方支持）
+- 动态导航插件
+- incall 音乐适配
+- OBD 添加 ELM327 支持
+- ROOT 功能外置（需要的用户请安装插件）
+- 添加了一些快捷操作
+- 修复各种 bug
+
 ## 2.015.006 2019-12-22
 
 [下载地址](https://app.dudu-lucky.com/upload/app_icon/fa3e50f4172c4307a74f05bb980ad2ed/temp.apk)

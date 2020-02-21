@@ -1,6 +1,6 @@
 module.exports = {
   title: "嘟嘟车机桌面",
-  description: "嘟嘟桌面,免费的车机桌面",
+  description: "武汉加油,中国加油",
   head: [
     ["link", { rel: "icon", href: "/favicon.ico" }],
     [

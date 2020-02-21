@@ -70,6 +70,16 @@ features:
 
 <div align=center style="padding:10px"><img src="./img/juanzhu.jpg"/><img src="./img/juanzhu2.jpeg"/></div>
 
+## 车机安装软件支持
+
+### 18-19 款传祺 GS4+ GS5
+
+QQ 群号码：201259044
+
+### 长安 A800
+
+QQ 群号码： 617414754
+
 ## 配套 APP
 
 ### DC Player
