@@ -8,6 +8,14 @@ categories:
 
 <!-- more -->
 
+## 2.016.005 2020-02-23
+
+[下载地址](https://app.dudu-lucky.com/upload/app_icon/1d419203e7444e54a7d3d2ed520b48f1/temp.apk)
+
+- 添加实时服务支持,可记录车辆行程
+- 默认微信登陆，原账号使用 QQ 登陆后,绑定微信即可
+- 绑定微信后,关注公众号,输入开通实时服务即可开通
+
 ## 2.015.029 2020-02-09
 
 [下载地址](https://app.dudu-lucky.com/upload/app_icon/faa87c38e20049dda4efffb869503fa5/temp.apk)
