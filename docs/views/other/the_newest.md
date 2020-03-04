@@ -5,13 +5,12 @@ categories:
 sidebar: false
 ---
 
-## 嘟嘟桌面 2.016.005 2020-02-23
+## 嘟嘟桌面 2.016.007 2020-02-27
 
-[下载地址](https://app.dudu-lucky.com/upload/app_icon/1d419203e7444e54a7d3d2ed520b48f1/temp.apk)
+[下载地址](https://app.dudu-lucky.com/upload/app_icon/6ec6f11ed8b44be5a8af2936e0aa4634/temp.apk)
 
-- 添加实时服务支持,可记录车辆行程
-- 默认微信登陆，原账号使用 QQ 登陆后,绑定微信即可
-- 绑定微信后,关注公众号,输入开通实时服务即可开通
+- 修复实时服务低版本安卓无法使用的问题
+- 优化了主题详情
 
 ## 嘟嘟桌面迷你 1.003.001 2020-02-13
 

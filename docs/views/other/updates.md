@@ -8,6 +8,13 @@ categories:
 
 <!-- more -->
 
+## 2.016.007 2020-02-27
+
+[下载地址](https://app.dudu-lucky.com/upload/app_icon/6ec6f11ed8b44be5a8af2936e0aa4634/temp.apk)
+
+- 修复实时服务低版本安卓无法使用的问题
+- 优化了主题详情
+
 ## 2.016.005 2020-02-23
 
 [下载地址](https://app.dudu-lucky.com/upload/app_icon/1d419203e7444e54a7d3d2ed520b48f1/temp.apk)
