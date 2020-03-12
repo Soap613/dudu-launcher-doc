@@ -11,7 +11,7 @@ heroImageStyle:
   }
 features:
   - title: 开始
-    details: 嘟嘟桌面原名为车机助手，是作者觉得车机自带的桌面太难用，闲暇时间给自己定制的桌面，分享后获得了一直好评，所以进行了持续维护
+    details: 嘟嘟桌面原名为车机助手，是作者觉得车机自带的桌面太难用，闲暇时间给自己定制的桌面，分享后获得了一致好评，所以进行了持续维护
   - title: 免费
     details: 嘟嘟桌面一款完全免费的桌面，但是为了实现某些功能(分享主题,OTA更新,行程存储)，并维持项目进行，作者打开了捐送渠道，更好的分摊一下运营成本
   - title: 未来
@@ -101,7 +101,7 @@ QQ 群号码： 617414754
 
 [最新版下载地址](https://app.dudu-lucky.com/api/app/common/getNewest/4)
 
-- 嘟嘟桌面支持的播放器，基于安卓 material design 开发，仅支持本地音乐
+- 嘟嘟桌面支持的播放器，基于安卓 material design 风格，仅支持本地音乐
 - 支持均衡器，频谱
 - 封面和歌词支持需要网络
 
@@ -109,4 +109,4 @@ QQ 群号码： 617414754
 
 [最新版下载地址](https://app.dudu-lucky.com/api/app/common/getNewest/5)
 
-- 嘟嘟桌面支持的 FM，基于安卓 material design 开发，数据源基于喜马拉雅 FM
+- 嘟嘟桌面支持的 FM，基于安卓 material design 风格，数据源基于喜马拉雅 FM

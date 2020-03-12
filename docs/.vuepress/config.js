@@ -53,6 +53,7 @@ module.exports = {
     // 作者
     author: "肥皂泡上尉",
     record: "鲁ICP备19061432号",
+    recordLink: "http://beian.miit.gov.cn",
     /**
      * valine 设置 (if you need valine comment )
      */
