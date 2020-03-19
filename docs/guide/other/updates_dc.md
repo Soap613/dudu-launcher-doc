@@ -1,7 +1,5 @@
 ---
 title: DC Player
-categories:
-  - 历史版本
 ---
 
 DC Player 是嘟嘟桌面默认支持的一个本地播放器，只支持本地歌曲播放

@@ -1,21 +1,28 @@
 ---
 title: 嘟嘟桌面
-categories:
-  - 历史版本
 ---
 
 嘟嘟桌面所有的正式版本的更新功能以及下载地址
 
-<!-- more -->
+## 2.016016 2020-02-27
 
-## 2.016.007 2020-02-27
+[下载地址](https://app.dudu-lucky.com/upload/app_icon/d2f4732623744da8bf737083b0aa6ee8/temp.apk)
+
+- 优化了本地行程的统计方式
+- 在线行程添加状态显示,添加行程托盘图标
+- 添加托盘头像
+- 优化了主题详情
+- 自定义壁纸
+- 汉腾 X5 胎压适配
+
+## 2.016007 2020-02-27
 
 [下载地址](https://app.dudu-lucky.com/upload/app_icon/6ec6f11ed8b44be5a8af2936e0aa4634/temp.apk)
 
 - 修复实时服务低版本安卓无法使用的问题
 - 优化了主题详情
 
-## 2.016.005 2020-02-23
+## 2.016005 2020-02-23
 
 [下载地址](https://app.dudu-lucky.com/upload/app_icon/1d419203e7444e54a7d3d2ed520b48f1/temp.apk)
 
@@ -23,7 +30,7 @@ categories:
 - 默认微信登陆，原账号使用 QQ 登陆后,绑定微信即可
 - 绑定微信后,关注公众号,输入开通实时服务即可开通
 
-## 2.015.029 2020-02-09
+## 2.01029 2020-02-09
 
 [下载地址](https://app.dudu-lucky.com/upload/app_icon/faa87c38e20049dda4efffb869503fa5/temp.apk)
 
@@ -34,7 +41,7 @@ categories:
 - 设置界面内容优化添加了一些新的设置项目
 - 其他 bug 修复
 
-## 2.015.017 2020-01-15
+## 2.015017 2020-01-15
 
 [下载地址](https://app.dudu-lucky.com/upload/app_icon/87ea20afde74476695f9f0025e5bdd23/temp.apk)
 
@@ -46,7 +53,7 @@ categories:
 - 添加了一些快捷操作
 - 修复各种 bug
 
-## 2.015.006 2019-12-22
+## 2.015006 2019-12-22
 
 [下载地址](https://app.dudu-lucky.com/upload/app_icon/fa3e50f4172c4307a74f05bb980ad2ed/temp.apk)
 
@@ -59,7 +66,7 @@ categories:
 - 添加兜风胎压支持
 - 其他 bug 修改
 
-## 2.014.042 2019-12-11
+## 2.014042 2019-12-11
 
 [下载地址](https://app.dudu-lucky.com/upload/app_icon/5ae997b8eb2044e09b70053842e5f643/temp.apk)
 
@@ -70,14 +77,14 @@ categories:
 - 尝试解决 DOCK 图标丢失问题
 - 修复各种 bug
 
-## 2.014.038 2019-12-05
+## 2.014038 2019-12-05
 
 [下载地址](https://app.dudu-lucky.com/upload/app_icon/3e7ae8c4012c4b37a5d5be278c2385c3/temp.apk)
 
 - 酷狗音乐插件优化
 - 行程 bug 修复
 
-## 2.014.037 2019-12-03
+## 2.014037 2019-12-03
 
 [下载地址](https://app.dudu-lucky.com/upload/app_icon/c11289f9520d4a5aa19acb320086859a/temp.apk)
 
@@ -89,7 +96,7 @@ categories:
 - 优化设置界面
 - 各种 bug 修复
 
-## 2.014.033 2019-11-23
+## 2.014033 2019-11-23
 
 [下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/e39f71e2561b49f79f041bbd0b446c62/temp.apk)
 
@@ -100,7 +107,7 @@ categories:
 - 方控适配方案添加一键切换 DOCK 应用的功能
 - bug 修复
 
-## 2.014.027 2019-11-03
+## 2.014027 2019-11-03
 
 [下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/adea9a0c7fb44bb1ba01853b50f2daa0/temp.apk)
 
@@ -115,7 +122,7 @@ categories:
 - 切换主题头像丢失，封面丢失问题。复。酷我插件（尤其是盗版）导致闪退的问题修复。GS4 无法启动问题修复。其他 bug 修复
 - 修复某些版本的卡机问题
 
-## 2.014.020 2019-10-23
+## 2.014020 2019-10-23
 
 [下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/b92c67394f4a47ff88f921686791dc04/temp.apk)
 
@@ -126,7 +133,7 @@ categories:
 - 修复设置黑屏问题，蓝牙无法搜索的问题，蓝牙无法搜索的问题，音乐进度条无法使用主题样式的问题，酷我卡死的 bug，A800 车机不显示胎压图标的问题，中子播放器不显示音乐信息的问题
 - 修复了一些其他的 bug
 
-## 2.014.013 2019-10-18
+## 2.014013 2019-10-18
 
 [下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/b29f1aadd30f44e784f273edf9ae3dc4/temp.apk)
 
@@ -137,7 +144,7 @@ categories:
 - 优化警告逻辑
 - 修复 bug
 
-## 2.014.010 2019-10-11
+## 2.014010 2019-10-11
 
 [下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/0d8e8cfae99d48e7b7f7d0af91555b5a/temp.apk)
 
@@ -154,13 +161,13 @@ categories:
 - 无网络时候自动连接某个 wifi 的功能
 - 修复 fix
 
-## 2.014.006 2019-10-5
+## 2.014006 2019-10-5
 
 [下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/f5d5337d10d147a5ad75c95345df7503/temp.apk)
 
 - 优化效率
 
-## 2.014.004 2019-9-30
+## 2.014004 2019-9-30
 
 [下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/62b18a36dfbe499e9e1e05cc9273b5b8/temp.apk)
 
@@ -174,7 +181,7 @@ categories:
 - 部分样式调整
 - 修复各种 bug
 
-## 2.014.003 2019-9-22
+## 2.014003 2019-9-22
 
 [下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/3a561484098e4e1f8cdb7faaf89a350e/temp.apk)
 
@@ -185,7 +192,7 @@ categories:
 - 修正了一些小 bug
 - 注意：新版本优驾胎压模块需要重新选择胎压插件！！
 
-## 2.014.001 2019-9-10
+## 2.014001 2019-9-10
 
 [下载地址](http://car-launcher.dudu-lucky.com:7000/upload/apk/1e067478810c4027b1013c98b0f92f93/temp.apk)
 

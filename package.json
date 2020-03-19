@@ -1,15 +1,15 @@
 {
   "name": "dudu-doc",
   "version": "1.0.0",
-  "homepage": "./",
-  "author": "Soap",
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
     "deploy": "bash deploy.sh"
   },
   "devDependencies": {
-    "vuepress": "1.2.0",
-    "vuepress-theme-reco": "1.2.2"
+    "vuepress": "1.4.0"
+  },
+  "dependencies": {
+    "webpack-dev-middleware": "^3.7.2"
   }
 }

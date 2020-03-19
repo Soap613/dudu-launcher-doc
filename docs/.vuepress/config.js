@@ -1,6 +1,11 @@
 module.exports = {
   title: "嘟嘟车机桌面",
   description: "武汉加油,中国加油",
+  locales: {
+    "/": {
+      lang: "zh-CN"
+    }
+  },
   head: [
     ["link", { rel: "icon", href: "/favicon.ico" }],
     [
@@ -25,62 +30,46 @@ module.exports = {
       }
     ]
   ],
-  theme: "reco",
-  themeConfig: {
-    nav: [
-      { text: "首页", link: "/", icon: "reco-home" },
-      { text: "鸣谢", link: "/views/other/鸣谢" },
-      {
-        text: "可用车机",
-        link: "/views/other/可用车机"
-      }
-    ],
-    // 博客设置
-    blogConfig: {
-      category: {
-        location: 2, // 在导航栏菜单中所占的位置，默认2
-        text: "分类" // 默认 “分类”
-      }
-    },
-    logo: "/head.png",
-    // 搜索设置
-    search: true,
-    searchMaxSuggestions: 10,
-    // 自动形成侧边导航
-    sidebar: "auto",
-    // 最后更新时间
-    lastUpdated: "更新时间",
-    // 作者
-    author: "肥皂泡上尉",
-    record: "鲁ICP备19061432号",
-    recordLink: "http://beian.miit.gov.cn",
-    /**
-     * valine 设置 (if you need valine comment )
-     */
-
-    valineConfig: {
-      appId: "PAOufgEXN2WaCpE0tgjw6oLq-gzGzoHsz", // your appId
-      appKey: "PSP8brTAFya23o3jcA3Bmruq" // your appKey
-    }
-    /**
-     * 密钥 (if your blog is private)
-     */
-
-    // keyPage: {
-    //   keys: ['your password'],
-    //   color: '#42b983',
-    //   lineColor: '#42b983'
-    // },
-  },
-  markdown: {
-    lineNumbers: true
-  },
   plugins: [
     "@vuepress/pwa",
     {
       serviceWorker: true,
-      popupComponent: "SWUpdatePopup",
       updatePopup: true
     }
-  ]
+  ],
+  themeConfig: {
+    nav: [
+      { text: "首页", link: "/", icon: "reco-home" },
+      { text: "主题", link: "/guide/theme" },
+      { text: "鸣谢", link: "/guide/other/鸣谢" },
+      {
+        text: "更新",
+        items: [
+          { text: "嘟嘟车机桌面", link: "/guide/other/updates" },
+          { text: "嘟嘟车机桌面MINI", link: "/guide/other/updates_mini" },
+          { text: "DC Player", link: "/guide/other/updates_dc" },
+          { text: "晴天FM", link: "/guide/other/updates_qt" }
+        ]
+      },
+      {
+        text: "更多",
+        items: [
+          { text: "主题制作", link: "/guide/theme_make" },
+          { text: "可用车机", link: "/guide/other/可用车机" },
+          { text: "功能介绍", link: "/guide/function" },
+          { text: "设置说明", link: "/guide/set_info" },
+          { text: "常见问题", link: "/guide/help" }
+        ]
+      }
+    ],
+    // 搜索设置
+    search: true,
+    sidebarDepth: 2,
+    searchMaxSuggestions: 10,
+    sidebar: "auto",
+    // 最后更新时间
+    lastUpdated: "更新时间",
+    // 作者
+    author: "肥皂泡上尉"
+  }
 };

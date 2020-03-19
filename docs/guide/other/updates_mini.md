@@ -6,8 +6,6 @@ categories:
 
 嘟嘟桌面迷你版（现已停更，只做致命 BUG 修复）所有的正式版本的更新功能以及下载地址
 
-<!-- more -->
-
 ## 1.003.001 2020-02-13
 
 [下载地址](https://app.dudu-lucky.com/upload/app_icon/2e134294395a40d593247f5dd9a529ce/temp.apk)

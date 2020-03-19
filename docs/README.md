@@ -3,12 +3,6 @@ home: true
 actionText: 立即下载
 actionLink: https://app.dudu-lucky.com/api/app/common/getNewest/0
 heroImage: /head.png
-heroImageStyle:
-  {
-    maxHeight: "200px",
-    margin: "3rem auto 1rem",
-    background-color: transparent,
-  }
 features:
   - title: 开始
     details: 嘟嘟桌面原名为车机助手，是作者觉得车机自带的桌面太难用，闲暇时间给自己定制的桌面，分享后获得了一致好评，所以进行了持续维护
@@ -17,12 +11,6 @@ features:
   - title: 未来
     details: 在不影响体验的情况下，兼容更多的车机系统(原车和第三方)，更多的外设(OBD,HUD,氛围灯,方控等)，使嘟嘟桌面成为最好用的车机桌面
 ---
-
-## 欢迎关注嘟嘟车机桌面订阅号
-
-<div align=center style="padding:10px">
-  <img src="./img/gzh_dyh.jpg"/>
-</div>
 
 ## 欢迎关注嘟嘟车机桌面服务号和小程序
 
@@ -95,7 +83,14 @@ QQ 群号码：201259044
 
 QQ 群号码： 617414754
 
-## 配套 APP
+## 更新详情
+
+### 嘟嘟桌面 2.016.007 2020-02-27
+
+[下载地址](https://app.dudu-lucky.com/api/app/common/getNewest/0)
+
+- 修复实时服务低版本安卓无法使用的问题
+- 优化了主题详情
 
 ### DC Player
 
@@ -103,10 +98,19 @@ QQ 群号码： 617414754
 
 - 嘟嘟桌面支持的播放器，基于安卓 material design 风格，仅支持本地音乐
 - 支持均衡器，频谱
-- 封面和歌词支持需要网络
+- 封面和歌词支持需要网络 22
 
 ### 晴天 FM
 
 [最新版下载地址](https://app.dudu-lucky.com/api/app/common/getNewest/5)
 
 - 嘟嘟桌面支持的 FM，基于安卓 material design 风格，数据源基于喜马拉雅 FM
+
+### 嘟嘟桌面迷你 1.003.001 2020-02-13
+
+[最新版下载地址](https://app.dudu-lucky.com/api/app/common/getNewest/5)
+
+- 武汉加油，中国加油
+- 跟进最新版本
+
+  <Footer/>
