@@ -351,17 +351,17 @@ FM 插件支持接入嘟嘟 FM 或者是晴天 FM 吗，暂不支持任何原车
 ##### 酷黑仪表盘
 
 可显示 OBD 基本数据,音乐,胎压,导航信息,如下图所示
-![layout1](../img/driving/kh.png)
+![layout1](../img/driving/kh.jpeg)
 
 ##### 紫色仪表 OBD 版本
 
 可显示 OBD 基本数据,音乐,时间,导航,天气信息,如下图所示
-![layout1](../img/driving/zsobd.png)
+![layout1](../img/driving/zsobd.jpeg)
 
 ##### 蓝色仪表 OBD 版本
 
 可显示 OBD 基本数据,音乐,时间,导航,天气信息,如下图所示
-![layout1](../img/driving/lsobd.png)
+![layout1](../img/driving/lsobd.jpeg)
 
 #### 不需要 OBD 支持的驾驶界面
 
@@ -370,12 +370,12 @@ FM 插件支持接入嘟嘟 FM 或者是晴天 FM 吗，暂不支持任何原车
 ##### 紫色仪表基础
 
 可显示音乐,导航,天气信息,时间,如下图所示
-![layout1](../img/driving/zscc.png)
+![layout1](../img/driving/zscc.jpeg)
 
 ##### 蓝色仪表基础
 
 可显示音乐,导航,天气信息,时间,如下图所示
-![layout1](../img/driving/lscc.png)
+![layout1](../img/driving/lscc.jpeg)
 
 ##### 时间
 
@@ -388,4 +388,4 @@ FM 插件支持接入嘟嘟 FM 或者是晴天 FM 吗，暂不支持任何原车
 ##### 魅力蓝调
 
 可显示 OBD 基本数据,音乐,胎压,导航信息,如下图所示
-![layout1](../img/driving/mlld.png)
+![layout1](../img/driving/mlld.jpeg)
