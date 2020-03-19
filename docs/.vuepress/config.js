@@ -40,7 +40,6 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: "首页", link: "/", icon: "reco-home" },
-      { text: "主题", link: "/guide/theme" },
       { text: "鸣谢", link: "/guide/other/鸣谢" },
       {
         text: "更新",
@@ -49,6 +48,17 @@ module.exports = {
           { text: "嘟嘟车机桌面MINI", link: "/guide/other/updates_mini" },
           { text: "DC Player", link: "/guide/other/updates_dc" },
           { text: "晴天FM", link: "/guide/other/updates_qt" }
+        ]
+      },
+      {
+        text: "主题",
+        items: [
+          { text: "🆒🆔 浪 ꦿོ 子 এ࿐", link: "/guide/theme/lz" },
+          { text: " 氺墨丹青 ▂◣", link: "/guide/theme/smdq" },
+          { text: "文哥", link: "/guide/theme/wg" },
+          { text: "情伤人", link: "/guide/theme/qsr" },
+          { text: "正在想...", link: "/guide/theme/zzx" },
+          { text: "系统主题", link: "/guide/theme/sys" }
         ]
       },
       {
