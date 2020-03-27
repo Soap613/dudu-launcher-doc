@@ -4,9 +4,9 @@ title: 嘟嘟桌面
 
 嘟嘟桌面所有的正式版本的更新功能以及下载地址
 
-## 2.016017 2020-03-20
+## 2.016018 2020-03-20
 
-[下载地址](https://app.dudu-lucky.com/upload/app_icon/89d284c35ed04bd3991730a60bca37d7/temp.apk)
+[下载地址](https://app.dudu-lucky.com/upload/app_icon/b3c220c34f394c0eafe17c80027c46ef/temp.apk)
 
 - 这个版本是做设置迁移的，防止 2.017001 更新导致设置丢失
 
