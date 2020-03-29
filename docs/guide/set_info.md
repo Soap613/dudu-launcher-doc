@@ -26,9 +26,9 @@
 - 首页布局-首页布局,三个模式:<br>
   使用主题布局(参考主题中的设置)<br>
   布局 1,dock 在左,托盘在底部<br>
-  ![layout1](../img/layout1.jpg)
+  ![layout1](http://file-qiniu.dudu-lucky.com/sys/layout1.jpg)
   布局 2,dock 在底部,托盘在顶部<br>
-  ![layout2](../img/layout2.jpg)
+  ![layout2](http://file-qiniu.dudu-lucky.com/sys/layout2.jpg)
 - 首页布局-是否展示托盘区,隐藏和显示托盘栏,隐藏并不会有性能提升,只是看不见而已,默认显示
 - 首页布局-是否展示 DOCK,隐藏和显示 DOCK,隐藏并不会有性能提升,只是看不见而已,默认显示
 - 首页布局-是否展示页面标记,隐藏和显示页面标记,隐藏并不会有性能提升,只是看不见而已,默认显示

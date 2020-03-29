@@ -15,15 +15,15 @@ features:
 ## 欢迎关注嘟嘟车机桌面服务号和小程序
 
 <div align=center style="padding:10px">
-  <img style="margin:5px" src="./img/gzh_fwh.jpg"/>
-  <img style="margin:5px" src="./img/gzh_xcx.jpg"/>
+  <img style="margin:5px" src="http://file-qiniu.dudu-lucky.com/sys/gzh_fwh.jpg"/>
+  <img style="margin:5px" src="http://file-qiniu.dudu-lucky.com/sys/gzh_xcx.jpg"/>
 </div>
 
 ## 交流群:109799213,338156952
 
 <div align=center style="padding:10px">
-  <img style="margin:5px" src="./img/qunqcode.jpg"/>
-  <img style="margin:5px" src="./img/qunqcode2.png"/>
+  <img style="margin:5px" src="http://file-qiniu.dudu-lucky.com/sys/qunqcode.jpg"/>
+  <img style="margin:5px" src="http://file-qiniu.dudu-lucky.com/sys/qunqcode2.png"/>
 </div>
 
 ## 桌面特点
@@ -69,8 +69,8 @@ features:
 ## 捐助支持
 
 <div align=center style="padding:10px">
-  <img style="margin:5px" src="./img/juanzhu.jpg"/>
-  <img style="margin:5px" src="./img/juanzhu2.jpeg"/>
+  <img style="margin:5px" src="http://file-qiniu.dudu-lucky.com/sys/juanzhu.jpg"/>
+  <img style="margin:5px" src="http://file-qiniu.dudu-lucky.com/sys/juanzhu2.jpeg"/>
 </div>
 
 ## 车机安装软件支持

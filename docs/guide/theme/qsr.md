@@ -2,7 +2,7 @@
 
 ## 黎明曙光
 
-![layout1](../../img/theme/sqr_theme1/1.jpeg)
-![layout1](../../img/theme/sqr_theme1/2.jpeg)
-![layout1](../../img/theme/sqr_theme1/3.jpeg)
-![layout1](../../img/theme/sqr_theme1/4.jpeg)
+![layout1](http://file-qiniu.dudu-lucky.com/theme/sqr_theme1/1.jpeg)
+![layout1](http://file-qiniu.dudu-lucky.com/theme/sqr_theme1/2.jpeg)
+![layout1](http://file-qiniu.dudu-lucky.com/theme/sqr_theme1/3.jpeg)
+![layout1](http://file-qiniu.dudu-lucky.com/theme/sqr_theme1/4.jpeg)

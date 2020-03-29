@@ -66,6 +66,7 @@ module.exports = {
         items: [
           { text: "可用车机", link: "/guide/other/可用车机" },
           { text: "功能介绍", link: "/guide/function" },
+          { text: "主题制作", link: "/guide/theme_make" },
           { text: "设置说明", link: "/guide/set_info" },
           { text: "常见问题", link: "/guide/help" }
         ]
