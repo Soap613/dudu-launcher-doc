@@ -70,7 +70,6 @@ features:
 
 <div align=center style="padding:10px">
   <img style="margin:5px" src="http://file-qiniu.dudu-lucky.com/sys/juanzhu.jpg"/>
-  <img style="margin:5px" src="http://file-qiniu.dudu-lucky.com/sys/juanzhu2.jpeg"/>
 </div>
 
 ## 车机安装软件支持
