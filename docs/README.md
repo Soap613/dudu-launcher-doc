@@ -7,9 +7,9 @@ features:
   - title: 开始
     details: 嘟嘟桌面原名为车机助手，是作者觉得车机自带的桌面太难用，闲暇时间给自己定制的桌面，分享后获得了一致好评，所以进行了持续维护
   - title: 免费
-    details: 嘟嘟桌面一款完全免费的桌面，但是为了实现某些功能(分享主题,OTA更新,行程存储)，并维持项目进行，作者打开了捐送渠道，更好的分摊一下运营成本
+    details: 嘟嘟桌面一款完全免费的桌面，但是为了实现某些功能(分享主题，OTA更新，行程存储)，并维持项目进行，作者打开了捐送渠道，更好的分摊一下运营成本
   - title: 未来
-    details: 在不影响体验的情况下，兼容更多的车机系统(原车和第三方)，更多的外设(OBD,HUD,氛围灯,方控等)，使嘟嘟桌面成为最好用的车机桌面
+    details: 在不影响体验的情况下，兼容更多的车机系统(原车和第三方)，更多的外设(OBD，HUD，氛围灯，方控等)，使嘟嘟桌面成为最好用的车机桌面
 ---
 
 ## 欢迎关注嘟嘟车机桌面服务号和小程序
@@ -19,12 +19,18 @@ features:
   <img style="margin:5px" src="http://file-qiniu.dudu-lucky.com/sys/gzh_xcx.jpg"/>
 </div>
 
-## 交流群:109799213,338156952
+## 交流群:109799213，338156952
 
 <div align=center style="padding:10px">
   <img style="margin:5px" src="http://file-qiniu.dudu-lucky.com/sys/qunqcode.jpg"/>
   <img style="margin:5px" src="http://file-qiniu.dudu-lucky.com/sys/qunqcode2.png"/>
 </div>
+
+## 使用前必读
+
+:::danger
+车机不同于手机，不同的车机，系统的定制化程度差别很大，所以很多功能的支持需要大家自行测试，开发者也没有能力把市面上的车机都测试一遍，如果出现问题，请到群里和大家讨论解决，见谅见谅!
+:::
 
 ## 桌面特点
 
@@ -89,7 +95,7 @@ QQ 群号码： 617414754
 [下载地址](https://app.dudu-lucky.com/api/app/common/getNewest/0)
 
 - 优化了本地行程的统计方式
-- 在线行程添加状态显示,添加行程托盘图标
+- 在线行程添加状态显示，添加行程托盘图标
 - 添加托盘头像
 - 优化了主题详情
 - 自定义壁纸

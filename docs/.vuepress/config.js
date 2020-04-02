@@ -65,6 +65,7 @@ module.exports = {
         text: "更多",
         items: [
           { text: "可用车机", link: "/guide/other/可用车机" },
+          { text: "实时服务", link: "/guide/nio_service" },
           { text: "功能介绍", link: "/guide/function" },
           { text: "主题制作", link: "/guide/theme_make" },
           { text: "设置说明", link: "/guide/set_info" },
