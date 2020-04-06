@@ -75,7 +75,7 @@ features:
 ## 捐助支持
 
 <div align=center style="padding:10px">
-  <img style="margin:5px" src="http://file-qiniu.dudu-lucky.com/sys/juanzhu.jpg"/>
+  <img style="margin:5px" src="http://file-qiniu.dudu-lucky.com/sys/zhifu.jpg"/>
 </div>
 
 ## 车机安装软件支持
@@ -101,6 +101,13 @@ QQ 群号码： 617414754
 - 自定义壁纸
 - 汉腾 X5 胎压适配
 - 2.016017 注意：这个版本是做设置迁移的，防止 2.017001 更新导致设置丢失
+
+### 嘟嘟桌面 1.003.001 2020-02-13
+
+[下载地址](https://app.dudu-lucky.com/api/app/common/getNewest/3)
+
+- 武汉加油，中国加油
+- 跟进最新版本
 
 ### DC Player 1.001.030 2020-03-16
 
