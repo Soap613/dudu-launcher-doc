@@ -1,5 +1,5 @@
 ---
-title: 功能介绍
+title: 基础功能介绍
 search: true
 ---
 

@@ -40,16 +40,6 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: "首页", link: "/", icon: "reco-home" },
-      { text: "鸣谢", link: "/guide/other/鸣谢" },
-      {
-        text: "更新",
-        items: [
-          { text: "嘟嘟车机桌面", link: "/guide/other/updates" },
-          { text: "嘟嘟车机桌面MINI", link: "/guide/other/updates_mini" },
-          { text: "DC Player", link: "/guide/other/updates_dc" },
-          { text: "晴天FM", link: "/guide/other/updates_qt" }
-        ]
-      },
       {
         text: "主题",
         items: [
@@ -62,11 +52,17 @@ module.exports = {
         ]
       },
       {
-        text: "更多",
+        text: "介绍",
         items: [
+          { text: "基础功能介绍", link: "/guide/function" },
+          { text: "实时服务", link: "/guide/nio_service" }
+        ]
+      },
+      {
+        text: "其他",
+        items: [
+          { text: "更新", link: "/guide/update" },
           { text: "可用车机", link: "/guide/other/可用车机" },
-          { text: "实时服务", link: "/guide/nio_service" },
-          { text: "功能介绍", link: "/guide/function" },
           { text: "主题制作", link: "/guide/theme_make" },
           { text: "设置说明", link: "/guide/set_info" },
           { text: "常见问题", link: "/guide/help" }
@@ -74,7 +70,7 @@ module.exports = {
       }
     ],
     // 搜索设置
-    search: true,
+    search: false,
     sidebarDepth: 2,
     searchMaxSuggestions: 10,
     sidebar: "auto",
