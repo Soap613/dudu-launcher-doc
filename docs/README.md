@@ -38,11 +38,12 @@ features:
   <img style="margin:5px" src="http://file-qiniu.dudu-lucky.com/sys/gzh_xcx.jpg"/>
 </div>
 
-## 交流群:109799213，338156952
+## 交流群:591571828，338156952，109799213
 
 <div align=center style="padding:10px">
-  <img style="margin:5px" src="http://file-qiniu.dudu-lucky.com/sys/qunqcode.jpg"/>
+  <img style="margin:5px" src="http://file-qiniu.dudu-lucky.com/sys/qunqcode3.png"/>
   <img style="margin:5px" src="http://file-qiniu.dudu-lucky.com/sys/qunqcode2.png"/>
+  <img style="margin:5px" src="http://file-qiniu.dudu-lucky.com/sys/qunqcode.jpg"/>
 </div>
 
 ## [更新详情(点击查看)](/guide/update)
@@ -57,18 +58,13 @@ features:
 - 添加了计划任务的两个活动（增加减少音量）
 - 修复 bug 若干
 
-### 嘟嘟桌面 MINI 版 1.004.005 2020-04-08
+### 嘟嘟桌面 MINI 版 1.004.010 2020-04-29
 
 [下载地址](https://app.dudu-lucky.com/api/app/common/getNewest/3)
 
-- 警告：请自行备份数据到服务器，更新此版本会导致信息丢失，切记进行备份 ！
-- 基于最新版本 2.017007 进行精简,精简蓝牙相关以及部分资源文件，大幅度缩小体积
-- 添加实时服务支持,可记录车辆行程
-- 默认微信登陆，原账号使用 QQ 登陆后,绑定微信即可
-- 添加了时间天气组件
-- 自定义壁纸
-- 汉腾 X5 胎压适配
-- 修复 bug 若干
+- 警告：请自行备份数据到服务器，更新此版本可能会导致信息丢失，切记进行备份 ！
+- 修复了几个闪退的 bug
+- 继续精简体积
 
 ### DC Player 1.001.030 2020-03-16
 

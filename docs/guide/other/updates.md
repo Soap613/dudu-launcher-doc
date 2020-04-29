@@ -16,13 +16,9 @@ title: 嘟嘟桌面
 
 ## 2.016018 2020-03-20
 
-[下载地址](https://app.dudu-lucky.com/upload/app_icon/b3c220c34f394c0eafe17c80027c46ef/temp.apk)
-
 - 这个版本是做设置迁移的，防止 2.017001 更新导致设置丢失
 
 ## 2.016016 2020-03-17
-
-[下载地址](https://app.dudu-lucky.com/upload/app_icon/d2f4732623744da8bf737083b0aa6ee8/temp.apk)
 
 - 优化了本地行程的统计方式
 - 在线行程添加状态显示,添加行程托盘图标
@@ -33,22 +29,16 @@ title: 嘟嘟桌面
 
 ## 2.016007 2020-02-27
 
-[下载地址](https://app.dudu-lucky.com/upload/app_icon/6ec6f11ed8b44be5a8af2936e0aa4634/temp.apk)
-
 - 修复实时服务低版本安卓无法使用的问题
 - 优化了主题详情
 
 ## 2.016005 2020-02-23
-
-[下载地址](https://app.dudu-lucky.com/upload/app_icon/1d419203e7444e54a7d3d2ed520b48f1/temp.apk)
 
 - 添加实时服务支持,可记录车辆行程
 - 默认微信登陆，原账号使用 QQ 登陆后,绑定微信即可
 - 绑定微信后,关注公众号,输入开通实时服务即可开通
 
 ## 2.015029 2020-02-09
-
-[下载地址](https://app.dudu-lucky.com/upload/app_icon/faa87c38e20049dda4efffb869503fa5/temp.apk)
 
 - 添加了 4 个支持系统 widget 的插件，方便使用原生插件
 - 优驾联网版添加胎压支持
@@ -58,8 +48,6 @@ title: 嘟嘟桌面
 - 其他 bug 修复
 
 ## 2.015017 2020-01-15
-
-[下载地址](https://app.dudu-lucky.com/upload/app_icon/87ea20afde74476695f9f0025e5bdd23/temp.apk)
 
 - 添加优驾联网版的支持（官方支持）
 - 动态导航插件
@@ -95,14 +83,10 @@ title: 嘟嘟桌面
 
 ## 2.014038 2019-12-05
 
-[下载地址](https://app.dudu-lucky.com/upload/app_icon/3e7ae8c4012c4b37a5d5be278c2385c3/temp.apk)
-
 - 酷狗音乐插件优化
 - 行程 bug 修复
 
 ## 2.014037 2019-12-03
-
-[下载地址](https://app.dudu-lucky.com/upload/app_icon/c11289f9520d4a5aa19acb320086859a/temp.apk)
 
 - 嘟嘟音乐，DC 音乐音乐信息不展示问题
 - 定位优化，区分天气定位和速度定位
@@ -114,8 +98,6 @@ title: 嘟嘟桌面
 
 ## 2.014033 2019-11-23
 
-[下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/e39f71e2561b49f79f041bbd0b446c62/temp.apk)
-
 - 音乐插件添加网易云音乐，酷狗音乐手机版，DC 音乐
 - 状态栏随主题色（主题适配）
 - 添加 T300 车机方控支持，胎压支持
@@ -124,8 +106,6 @@ title: 嘟嘟桌面
 - bug 修复
 
 ## 2.014027 2019-11-03
-
-[下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/adea9a0c7fb44bb1ba01853b50f2daa0/temp.apk)
 
 - 加载优化
 - 驾驶界面机制重做，防止闪退
@@ -140,8 +120,6 @@ title: 嘟嘟桌面
 
 ## 2.014020 2019-10-23
 
-[下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/b92c67394f4a47ff88f921686791dc04/temp.apk)
-
 - 添加新 mini 插件：导航，音乐，天气，OBD，胎压，时间，嘟嘟 FM，个人中心
 - 设置，插件设置，彻底关闭歌词功能，可节省部分资源
 - 去掉了 APP 联动，去掉了驾驶界面自动跳转，去掉了音乐最后一次活动的设置
@@ -151,8 +129,6 @@ title: 嘟嘟桌面
 
 ## 2.014013 2019-10-18
 
-[下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/b29f1aadd30f44e784f273edf9ae3dc4/temp.apk)
-
 - 优化代码，启动更加迅速
 - 动态音乐插件
 - 添加了流程记录功能（本地），个人中心开启
@@ -161,8 +137,6 @@ title: 嘟嘟桌面
 - 修复 bug
 
 ## 2.014010 2019-10-11
-
-[下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/0d8e8cfae99d48e7b7f7d0af91555b5a/temp.apk)
 
 - 添加下载中心
 - 添加部分计划任务支持
@@ -179,13 +153,9 @@ title: 嘟嘟桌面
 
 ## 2.014006 2019-10-5
 
-[下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/f5d5337d10d147a5ad75c95345df7503/temp.apk)
-
 - 优化效率
 
 ## 2.014004 2019-9-30
-
-[下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/62b18a36dfbe499e9e1e05cc9273b5b8/temp.apk)
 
 - 大家国庆节快乐
 - 新的主题中心
@@ -199,8 +169,6 @@ title: 嘟嘟桌面
 
 ## 2.014003 2019-9-22
 
-[下载地址](http://car-launcher.dudu-lucky.com:7000/upload/app_icon/3a561484098e4e1f8cdb7faaf89a350e/temp.apk)
-
 - 内置车载应用模块
 - 添加个人中心选项卡
 - 添加了 A800 内置胎压显示
@@ -209,8 +177,6 @@ title: 嘟嘟桌面
 - 注意：新版本优驾胎压模块需要重新选择胎压插件！！
 
 ## 2.014001 2019-9-10
-
-[下载地址](http://car-launcher.dudu-lucky.com:7000/upload/apk/1e067478810c4027b1013c98b0f92f93/temp.apk)
 
 - 优化权限获取
 - 优化新手引导
