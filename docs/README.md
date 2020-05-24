@@ -46,31 +46,28 @@ features:
   <img style="margin:5px" src="http://file-qiniu.dudu-lucky.com/sys/qunqcode.jpg"/>
 </div>
 
-## [更新详情(点击查看)](/guide/update)
+## [更新详情(点击查看)](/guide/update.html)
 
-### 嘟嘟桌面 2.017007 2020-04-03
+### 嘟嘟桌面 2.018007 2020-05-24
 
 [下载地址](https://app.dudu-lucky.com/api/app/common/getNewest/0)
 
 - 警告：如果没有更新 2.016018，更新此版本会导致信息丢失，切记进行备份 ！
-- 移除了 so 库相关的组件
-- 添加了时间天气组件
-- 添加了计划任务的两个活动（增加减少音量）
-- 修复 bug 若干
+- 修复 2.018005 卡顿问题
 
-### 嘟嘟桌面 MINI 版 1.004.010 2020-04-29
+### 嘟嘟桌面 MINI 版 1.005.005 2020-05-20
 
 [下载地址](https://app.dudu-lucky.com/api/app/common/getNewest/3)
 
 - 警告：请自行备份数据到服务器，更新此版本可能会导致信息丢失，切记进行备份 ！
-- 修复了几个闪退的 bug
-- 继续精简体积
+- 基于 2.018005 版本精简
+- 修复 1.005003 卡顿问题
 
-### DC Player 1.001.030 2020-03-16
+### DC Player 1.002.001 2020-05-20
 
 [最新版下载地址](https://app.dudu-lucky.com/api/app/common/getNewest/4)
 
-- 继续修复歌曲重复，扫歌不全等问题
+- 添加新的协议支持
 
 ### 晴天 FM
 

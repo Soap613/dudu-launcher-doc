@@ -12,7 +12,7 @@ module.exports = {
       "meta",
       {
         name: "keywords",
-        content: "车机桌面,嘟嘟桌面,嘟嘟车机桌面,车机桌面,车载嘟嘟桌面"
+        content: "车机桌面,嘟嘟桌面,嘟嘟车机桌面,车机桌面,车载嘟嘟桌面,车载桌面"
       }
     ],
     [
