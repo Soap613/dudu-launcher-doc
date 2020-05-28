@@ -7,7 +7,7 @@ title: 主题制作
 #### 前期准备
 
 - 确保自己电脑安装有 android studio,并可正常使用 git 插件
-- git 地址 https://gitee.com/helloworld_studio/dudu-launcher-theme
+- git 地址 https://gitee.com/qingchuan_qd/dudu-launcher-theme
 - 确保自己有下载 git 项目的能力
 
 #### 制作流程
